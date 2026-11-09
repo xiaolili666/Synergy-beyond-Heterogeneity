@@ -1,4 +1,4 @@
-# Synergy beyond Heterogeneity
+# 
 This is the official repository for our paper,“Synergy beyond Heterogeneity: A Divide-Collaborate-Adaptive Multi-Teacher Knowledge Distillation for Rail Surface Defect Detection”。
 
 ## Architecture and Details:
@@ -17,15 +17,14 @@ This is the official repository for our paper,“Synergy beyond Heterogeneity: A
 
 
 ##  Comparison of Rail Defect Detection Results
-<img width="867" height="439" alt="image" src="https://github.com/user-attachments/assets/18986440-e278-4bb8-9dbf-a36d65dd8ab9" />
+
 
 
 
 
 ## DCANet ablation experiments
 ###  ablation experiments
-<img width="460" height="128" alt="image" src="https://github.com/user-attachments/assets/8c45e75b-a1e4-4da8-b5c1-0dc1df8a9272" />
-<img width="474" height="287" alt="image" src="https://github.com/user-attachments/assets/6c0983a0-7f50-4fbc-8249-45f6508dea7f" />
+
 
 
 
